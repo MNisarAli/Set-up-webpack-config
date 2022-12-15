@@ -108,8 +108,7 @@ Give a ⭐️ if you like this project!
 - [Microverseinc](https://github.com/microverseinc) for.
   * [Readme-template](https://github.com/microverseinc/readme-template)
 
-- [Luxon](https://moment.github.io/luxon) for.
-  * [JavaScript dates and times wrapper](https://moment.github.io/luxon/#/install?id=es6)
+- [Webpack](https://webpack.js.org/guides/getting-started/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
